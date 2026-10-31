@@ -1,0 +1,9 @@
+{
+  "name": "RESET \u2014 Dopamine Level Reset & Learn",
+  "short_name": "RESET",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07091c",
+  "theme_color": "#07091c",
+  "icons": []
+}
